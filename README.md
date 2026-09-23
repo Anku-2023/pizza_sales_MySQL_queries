@@ -10,6 +10,11 @@ The project was designed as a practical **SQL Analytics portfolio project**, pro
 Screenshots 
 <img width="1092" height="590" alt="Screenshot 2026-09-23 103123" src="https://github.com/user-attachments/assets/fc7598d1-4ccf-4620-b82e-4d94027a0df3" />
 
+<img width="1022" height="575" alt="Screenshot 2026-09-23 103854" src="https://github.com/user-attachments/assets/ceb7eff5-5d33-4f1f-9ff1-7291224c93bb" />
+
+<img width="1022" height="582" alt="Screenshot 2026-09-23 103918" src="https://github.com/user-attachments/assets/2db702af-0078-4470-bede-68974ba7a93e" />
+
+
  🎯 Business Objectives
 
 The analysis aims to answer key business questions such as:
