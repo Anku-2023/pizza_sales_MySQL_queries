@@ -7,6 +7,9 @@ This project analyzes a pizza sales dataset using **MySQL** to extract meaningfu
 The project was designed as a practical **SQL Analytics portfolio project**, progressing from basic SQL queries to advanced analytical techniques such as cumulative revenue analysis and category-wise ranking.
 
 ---
+Screenshots 
+<img width="1092" height="590" alt="Screenshot 2026-09-23 103123" src="https://github.com/user-attachments/assets/fc7598d1-4ccf-4620-b82e-4d94027a0df3" />
+
  🎯 Business Objectives
 
 The analysis aims to answer key business questions such as:
